@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">The Peace Place</string>
+    <string name="vpn_detected">VPN Detected</string>
+    <string name="vpn_message">The Peace Place requires a direct, authentic connection.</string>
+    <string name="proxy_detected">Proxy Detected</string>
+    <string name="proxy_message">Proxy connections are not allowed. Please disable any proxy and restart the app.</string>
+    <string name="exit_app">Exit</string>
+</resources>
